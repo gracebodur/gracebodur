@@ -19,6 +19,8 @@ Check out my [website](https://www.mariegracebodur.com) if you wanna learn more!
 
 #### Deployed Projects <a name="projects"></a>
 
+
+- [Portfolio](https://www.mariegracebodur.com/) - My potfolio site built in React and CSS, incorporating react-reveal and react-scroll. This was the first project I deployed with Vercel and it was a breeze!
 - [GottaLotto](https://malekandgrace-gottalotto.vercel.app/) - GottaLotto Is For Lotto Enthusiasts To Have Plain Old Fun In Guessing The Winning Numbers For Each Saturday's PowerBall 'S Drawing. Built with CSS, JavaScript, React.Js, Node, PostgreSQL, And Cron Job.
 - [Quiz App](https://gracebodur.github.io/covid-19-quizapp/) - Test Your Knowledge With My Coronavirus Quiz – And You May Learn Something Along The Way. Built with HTML, CSS, JavaScript and jQuery
 - [Jot](https://gracebodur.github.io/jot/) - A Note Taking App Based On Google's Keep Note-Taking Service Where Users Can Add, Edit And Delete A Note. Built with HTML, CSS and JavaScript.
