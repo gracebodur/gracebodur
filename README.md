@@ -25,6 +25,6 @@ Check out my [website](https://www.mariegracebodur.com) if you wanna learn more!
 - [GottaLotto](https://malekandgrace-gottalotto.vercel.app/) - GottaLotto Is For Lotto Enthusiasts To Have Plain Old Fun In Guessing The Winning Numbers For Each Saturday's PowerBall 'S Drawing. Built with CSS, JavaScript, React.Js, Node, PostgreSQL, And Cron Job.
 - [Quiz App](https://gracebodur.github.io/covid-19-quizapp/) - Test Your Knowledge With My Coronavirus Quiz – And You May Learn Something Along The Way. Built with HTML, CSS, JavaScript and jQuery
 - [Jot](https://gracebodur.github.io/jot/) - A note taking app based on Google's Keep Note-Taking service where users can add, edit and delete a note. Built with HTML, CSS and JavaScript.
-- [Age Gate](https://gracebodur.github.io/age-gate/) - a popup campaign shown to visitors to make sure they are old enough to browse the content of your site. Built with HTML, CSS and JavaScript.
+- [Age Gate](https://graceandbosbrewery.netlify.app/) - a popup campaign shown to visitors to make sure they are old enough to browse the content of your site. Built with HTML, CSS and JavaScript.
 
 [Back to Top](#about)
