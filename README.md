@@ -12,7 +12,7 @@ Check out my [website](https://www.mariegracebodur.com) if you wanna learn more!
 
 - 👩‍💻 I'm currently a Freelance Front-end Developer.
 - 🌱 I’m currently learning Redux and styled components.
-- 🔭 I’m currently working on my official Web Development business Website a React Chat application.
+- 🔭 I’m currently working on my own Web Development business Website and a React Chat application.
 - 💬 Ask me about how to say stuff in Tagalog. Or make you a website.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mgracebodur/) || [mgracebodur@gmail.com](mailto:mgracebodur@gmail.com) 
 - ⚡ Fun fact: An accomplishment I’m particularly proud of is finishing [Thinkful](https://www.thinkful.com/)'s Engineering Immersion Program while being a full-time mom at the age of 40!
