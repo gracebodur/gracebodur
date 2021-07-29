@@ -4,7 +4,7 @@
 
 #### About Me 👧 <a name="about"></a>
 
-Hi. I'm Grace and I am a full stack/ front-end web developer based in North Carolina. I mostly code using HTML, CSS, Javascript, JQuery, React, Node, and Express, and SQL with PostgreSQL. I also do unit and integration testing with Jest, Enzyme, Supertest, Chai, and Mocha. If what you need is not what I listed, still try asking me anyway. 
+Hi. I'm Grace and I am a full stack/ front-end web developer based in North Carolina. I mostly code using HTML, CSS, Bootstrap, Tailwind CSS, Styled Components, Javascript, jQuery, React, Node, and Express, and SQL with PostgreSQL. I also do unit and integration testing with Jest, Enzyme, Supertest, Chai, and Mocha. If what you need is not what I listed, still try asking me anyway. 
 
 I also enjoy arts and crafts, cooking, the outdoors and sometimes I try gardening too!
 
